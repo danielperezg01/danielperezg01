@@ -33,6 +33,6 @@ Analista y Desarrollador de Software enfocado en la construcción de APIs escala
 
 ### 📫 Contacto y Redes
 
-* **LinkedIn:** [linkedin.com/in/d-mauricio-perez](https://www.linkedin.com/in/d-mauricio-perez/)[cite: 10]
+* **LinkedIn:** [linkedin.com/in/d-mauricio-perez](https://www.linkedin.com/in/d-mauricio-perez/)
 * **Correo:** dmauriciop0121@gmail.com
 * **Ubicación:** Medellín, Colombia
