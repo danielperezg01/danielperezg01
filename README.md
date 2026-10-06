@@ -1,11 +1,11 @@
-# Daniel Pérez 👋
+# Daniel Pérez
 ### Desarrollador Full Stack | Backend & Microservicios
 
 Analista y Desarrollador de Software enfocado en la construcción de APIs escalables, arquitecturas de microservicios y soluciones web/móviles de alto rendimiento.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###Tecnologías y Herramientas
 
 **Backend & APIs:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,7 +31,7 @@ Analista y Desarrollador de Software enfocado en la construcción de APIs escala
 
 ---
 
-### 📫 Contacto y Redes
+###Contacto y Redes
 
 * **LinkedIn:** [linkedin.com/in/d-mauricio-perez](https://www.linkedin.com/in/d-mauricio-perez/)
 * **Correo:** dmauriciop0121@gmail.com
