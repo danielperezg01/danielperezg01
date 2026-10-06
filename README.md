@@ -1,4 +1,4 @@
-# ¡Hola! Soy Daniel Pérez 👋
+# Daniel Pérez 👋
 ### Desarrollador Full Stack | Backend & Microservicios
 
 Analista y Desarrollador de Software enfocado en la construcción de APIs escalables, arquitecturas de microservicios y soluciones web/móviles de alto rendimiento.
